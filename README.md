@@ -38,5 +38,6 @@ In ArcGIS StoryMap:
 
 ---
 
-🔄 Per aggiornamenti futuri, sostituisci i file `.html` direttamente nel repository.
+🔄 Per aggiornamenti futuri, sostituisci i file `.html` direttamente nel repository oppure modifica il codice.
+<!-- Trigger rebuild -->
 
