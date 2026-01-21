@@ -27,7 +27,58 @@ L'URL sarà:
 
 ```
 https://tuo-username.github.io/nome-repository/pesca.html
+
 ```
+
+# Dashboard MSP – Fisheries, Tourism, Maritime Transport
+
+This repository contains three interactive HTML dashboards dedicated to key sectors of **Maritime Spatial Planning (MSP)** in Italy: **Fisheries, Tourism, and Maritime Transport**.
+
+The dashboards are designed to support visual exploration of spatial and socio-economic data and are optimised for embedding in **ArcGIS StoryMaps**.
+
+---
+
+## 📊 Dashboard contents
+
+Each dashboard includes:
+
+- A sector-specific **interactive ArcGIS map**
+- Three **interactive area charts**:
+  - Turnover  
+  - Gross Value Added (GVA)  
+  - Employment (FTE)  
+- A thematic embroidered icon
+- A layout optimised for **ArcGIS StoryMap embedding**
+
+---
+
+## 📁 Files included
+
+- `fisheries.html` – Fisheries dashboard  
+- `tourism.html` – Tourism dashboard  
+- `transport.html` – Maritime Transport dashboard  
+
+All files are standalone HTML pages and require no server-side configuration.
+
+---
+
+## 🌐 Publishing with GitHub Pages
+
+To publish the dashboards using **GitHub Pages**:
+
+1. Go to **Settings > Pages**
+2. Select:
+   - **Source**: Deploy from a branch  
+   - **Branch**: `main`  
+   - **Folder**: `/ (root)`
+3. Click **Save**
+
+Once published, the dashboards will be available at:
+
+```text
+https://your-username.github.io/repository-name/fisheries.html
+https://your-username.github.io/repository-name/tourism.html
+https://your-username.github.io/repository-name/transport.html
 
 ## 💡 Utilizzo su ArcGIS StoryMap
 
